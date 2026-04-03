@@ -1,0 +1,9 @@
+name: email-triage-env
+description: Email classification and response environment
+
+actions:
+  label: [spam, normal, urgent]
+  action: [ignore, reply, escalate]
+
+observations:
+  email_text: string
