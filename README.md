@@ -54,13 +54,6 @@ It provides both:
 
 ---
 
-## 🌐 Live Demo
-
-👉 **Hugging Face Space:**
-https://sparkgen0markvi-meta-pytorch-hackathon.hf.space
-
----
-
 ## 📡 API Endpoints
 
 | Endpoint    | Method | Description             |
